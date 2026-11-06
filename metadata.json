@@ -1,0 +1,8 @@
+{
+  "name": "Makeup by Aarya - Luxury Bridal & Occasion Makeup",
+  "description": "Exquisite bridal, party, and personal makeup artistry featuring an interactive portfolio gallery, transparent service price lists, and instant appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
